@@ -1,0 +1,15 @@
+{
+  "name": "mg-neat",
+  "version": "0.1.0",
+  "description": "A small grid framework built with Bourbon Neat that aims for saner breakpoints than most grids provide.",
+  "dependencies": {},
+  "devDependencies": {
+    "bourbon-neat": "^2.0.0"
+  },
+  "scripts": {
+    "sass": "sass --scss grid.scss grid.css",
+    "watch": "sass --scss --watch grid.scss:grid.css"
+  },
+  "author": "Mad Genius",
+  "license": "MIT"
+}
