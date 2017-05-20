@@ -42,7 +42,7 @@ To get started, you can just import the CSS file:
 <link rel="stylesheet" href="grid.css">
 ```
 
-MG Neat is built with Bourbon Neat. You can use the SCSS files to build it yourself (and change it!). You will need to run `npm install` in the MG Neat directory. This will install Bourbon Neat into your project.
+MG Neat is built with [Bourbon Neat](http://neat.bourbon.io/). You can use the SCSS files to build it yourself (and change it!). You will need to run `npm install` in the MG Neat directory. This will install Bourbon Neat into your project.
 
 ## Usage
 
